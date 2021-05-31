@@ -2,7 +2,7 @@
 
 
 
-## Task2 ScreenShot##
+## Task1 ScreenShot##
 
 
 ![Task1(day5)](https://user-images.githubusercontent.com/68742521/120134903-bd75f900-c1ec-11eb-99af-5db9e25ecb36.png)
@@ -18,6 +18,21 @@ ls /home/
 sudo userdel -r welcome
 ls /home/
 ```
+
+
+##Task2 (a)- ScreenShot##
+
+
+
+
+
+
+
+
+
+##Task2(a)- Text File##
+
+
 
 
 
