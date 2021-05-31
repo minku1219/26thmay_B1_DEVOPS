@@ -10,7 +10,8 @@
 ## Task2 Text File##
 
 
-```sudo adduser welcome
+```
+sudo adduser welcome
 ls /home/
 sudo userdel -r welcome
 ls /home/
