@@ -114,7 +114,9 @@ LNB
 
 ## Task2 ScreenShot##
 
-![Task2](https://user-images.githubusercontent.com/68742521/120132498-11321380-c1e8-11eb-8c93-ad68cc97eff5.png)
+
+![Task2](https://user-images.githubusercontent.com/68742521/120132958-e0061300-c1e8-11eb-935a-29b34a32c537.png)
+
 
 
 ## Task2 Text File##
@@ -123,8 +125,8 @@ LNB
 ```sudo adduser welcome
 ls /home/
 sudo userdel -r welcome
-ls /home/
-```
+ls /home/```
+
 
 
 
