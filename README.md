@@ -1,4 +1,3 @@
-# 26thmay_B1_DEVOPS
 
 
 
@@ -63,4 +62,3 @@ echo $SHELL
 sudo usermod -L test
 su - test
 ```
-
