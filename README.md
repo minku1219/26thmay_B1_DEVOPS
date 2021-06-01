@@ -49,7 +49,8 @@ echo $SHELL
 
 
 
-![Task2-b-(day5)](https://user-images.githubusercontent.com/68742521/120260823-44da6f80-c2b4-11eb-9f6c-48b5e0a30390.png)
+![Task2-b-(day5)](https://user-images.githubusercontent.com/68742521/120261068-c8945c00-c2b4-11eb-845d-27e88449a5f9.png)
+
 
 
 
