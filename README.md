@@ -73,17 +73,12 @@ ls -la welcome/
 ```
 
 
-## Task2 ScreenShot##
-
-
-
-
-
-
-
 ## Task2 Text File##
 
 
+```
+sudo apt-get remove package_name
+```
 
 
 
