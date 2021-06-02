@@ -19,7 +19,7 @@ ls /home/
 ```
 
 
-##Task2 (a) ScreenShot##
+## Task2 (a) ScreenShot##
 
 
 
@@ -30,7 +30,7 @@ ls /home/
 
 
 
-##Task2(a) Text File##
+## Task2(a) Text File##
 
 
 
@@ -44,7 +44,7 @@ echo $SHELL
 
 
 
-##Task2(b) ScreenShot##
+## Task2(b) ScreenShot##
 
 
 
@@ -54,7 +54,7 @@ echo $SHELL
 
 
 
-##Task2(b) Text File##
+## Task2(b) Text File##
 
 
 
@@ -62,3 +62,16 @@ echo $SHELL
 sudo usermod -L test
 su - test
 ```
+
+
+
+## Task2(c) ScreenShot##
+
+
+
+
+
+
+
+
+## Task2(c) Text File##
