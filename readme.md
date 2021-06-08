@@ -22,3 +22,13 @@
 
 
 ## Task2 TextFile ##
+
+
+
+```
+sudo vim /etc/ssh/sshd_config
+systemctl restart sshd.service
+netstat -ntpl
+ssh -p 22000 192.168.115.9
+ssh -p 22 192.168.115.9
+```
