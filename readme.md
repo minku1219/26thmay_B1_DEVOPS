@@ -2,8 +2,7 @@
 
 
 
-![Task1(day11)](https://user-images.githubusercontent.com/68742521/121641562-f5165800-caac-11eb-9073-ae52d5256fcd.png)
-
+![Task1(day11)](https://user-images.githubusercontent.com/68742521/121670563-34ec3800-cacb-11eb-881b-4aab35f73b97.png)
 
 
 
