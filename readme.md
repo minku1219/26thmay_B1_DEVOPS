@@ -11,14 +11,11 @@
 
 
 
-
-
-
-
-
-
-
-
+```
+cd /mnt
+sudo mkdir new
+ls
+```
 
 
 
@@ -34,7 +31,9 @@
 
 
 
-
+```
+EC2 > EBS > Volume > Create Volume > Actions > Attach Volume
+```
 
 
 
@@ -51,7 +50,19 @@
 
 
 
-
+```
+sudo fdisk /dev/xvdf
+n ---- Create New Partition
+Enter ---- Use Default as Primary Partiton
+Enter ---- Use Default as 1 as Partition Number
+Enter ---- Use Default as 2048 as First Sector
++1G ---- As Last Sector
+p ---- Print Created Partition
+w ---- Save Partition
+sudo mkfs.xfs /dev/xvdf1
+sudo mount /dev/xvdf1 /mnt/new/
+df -hT
+```
 
 
 
@@ -68,7 +79,10 @@
 
 
 
-
+```
+sudo apt install apache2
+systemctl status apache2
+```
 
 
 
@@ -84,6 +98,13 @@
 
 
 
-
+```
+cd /etc/apache2/sites-availabile
+ls
+sudo vim 000-default.conf
+   --- Change Document root to /mnt/new/
+   --- :wq
+systemctl restart apache2
+```
 
 
