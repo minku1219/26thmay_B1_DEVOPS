@@ -11,7 +11,11 @@
 
 
 
-
+```
+EC2 > EBS > Volume > Create Volume > Actions > Attach Volume
+mount /dev/xvdf1 /root/welcome
+df -hT
+```
 
 
 
@@ -27,7 +31,11 @@
 
 
 
-
+```
+cd welcome/
+vim index.html
+cat index.html
+```
 
 
 
@@ -45,6 +53,14 @@
 
 
 
-
+```
+EC2 > EBS > Volume > Create Volume > Actions > Detach Volume > Attach Volume
+cd /etc/apache2/sites-availabile
+ls
+sudo vim 000-default.conf
+   --- Change Document root to /root/new/
+   --- :wq
+systemctl restart apache2
+```
 
 
