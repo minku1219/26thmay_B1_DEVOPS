@@ -56,9 +56,9 @@ docker pull ubuntu:20.04
 
 
 
-![Task3 (day17)](https://user-images.githubusercontent.com/68742521/122908472-c84a2680-d371-11eb-9746-f795f16ef798.png)
 ![Task3 (day17)](https://user-images.githubusercontent.com/68742521/122908477-c97b5380-d371-11eb-8a78-d1cb6c08e0b8.png)
 ![Task3(day17)](https://user-images.githubusercontent.com/68742521/122908482-ca13ea00-d371-11eb-94e9-31be8b895091.png)
+![Task3 (day17)](https://user-images.githubusercontent.com/68742521/122908472-c84a2680-d371-11eb-9746-f795f16ef798.png)
 
 
 
